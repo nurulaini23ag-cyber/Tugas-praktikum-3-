@@ -1,5 +1,4 @@
 # Tugas-praktikum-3-
-# Tugas Akhir Pemrograman Web: Product Manager
 
 Aplikasi web manajemen produk berbasis **PHP (Native)**, **MySQL (PDO)**, dan **CSS UI Styling (Flexbox & Box Model)**. Projek ini dibuat berdasarkan kriteria modul Pertemuan 3 Pemrograman Web.
 
